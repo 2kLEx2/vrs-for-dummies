@@ -68,12 +68,6 @@ Jedes Team wird der Region zugeordnet, aus der die **meisten Spieler** kommen.
 
 ---
 
-## Wie gut ist das System?
-
-Sehr gut. Das Modell sagt Matchergebnisse mit einer Korrelation von **0,98** vorher — fast perfekt. Leichte Tendenz dazu, krasse Upsets zu unterschätzen, aber insgesamt sehr zuverlässig.
-
----
-
 ## Kurzzusammenfassung in einem Satz
 
 > Spiel das ganze Jahr bei echten Turnieren, besieg starke Gegner auf LAN, und Valve lädt dich zum Major ein — ohne Open Qualifier.
